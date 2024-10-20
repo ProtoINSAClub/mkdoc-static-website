@@ -2,3 +2,33 @@ site_name: Proto INSA Club documentation
 site_url: https://protoinsaclub.github.io/mkdoc-static-website
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections # When enabled, sections are expanded
+    - navigation.indexes # Documents can be directly attached to sections
+    - navigation.expand
+    - content.tabs.link
+
+
+
+markdown_extensions:
+  # - pymdownx.superfences
+  # - pymdownx.tabbed:
+  #     alternate_style: true 
+
+nav:
+  
+  - Mechanical: 
+    - mechanical/index.md
+  - Electronic: 
+    - electronic/index.md
+    
+  - Telemetry: 
+    - telemetry/index.md
+    - Data Analysis: telemetry/data-analysis.md
+    - Data Collection: telemetry/data-collection.md
+
+  - Software:
+    - software/index.md
+    
+
