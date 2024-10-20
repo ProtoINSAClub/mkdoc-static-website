@@ -1,0 +1,4 @@
+site_name: Proto INSA Club documentation
+site_url: https://protoinsaclub.github.io/mkdoc-static-website
+theme:
+  name: material
