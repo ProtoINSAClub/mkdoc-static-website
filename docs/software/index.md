@@ -14,12 +14,14 @@ Here are some project proposals as of october 2024:
 
 **Description:**  
 A web app with a single clickable button featuring:
+
 - **User Rankings:** Track clicks for anonymous and registered users.
 - **Contribution Tracking:** Users can submit and influence scores.
 - **Robot Detection:** Prevent automated clicks.
 - **Real-time Speed Register:** Display click speeds live.
 
 **Technologies:**
+
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, Socket.io
 - **Database:** MongoDB
@@ -36,6 +38,7 @@ A web app with a single clickable button featuring:
 A chatbot to help users understand legacy PIC microcontroller documents and code.
 
 **Technologies:**
+
 - **NLP:** GPT-4 API or Rasa
 - **Backend:** Python (Flask/Django)
 - **Database:** Elasticsearch
@@ -52,6 +55,7 @@ A chatbot to help users understand legacy PIC microcontroller documents and code
 Tools to create dynamic, interactive data visualizations from various data sources.
 
 **Technologies:**
+
 - **Frontend:** React.js, D3.js
 - **Backend:** Python (Flask/Django)
 - **Libraries:** Grafana, Plotly
@@ -68,6 +72,7 @@ Tools to create dynamic, interactive data visualizations from various data sourc
 Automate LaTeX document creation from user inputs or templates for reports and papers.
 
 **Technologies:**
+
 - **Frontend:** React.js
 - **Backend:** Python (Flask/Django)
 - **LaTeX Compilation:** pdflatex
@@ -85,6 +90,7 @@ Automate LaTeX document creation from user inputs or templates for reports and p
 Task manager categorizing tasks by importance and urgency to prioritize effectively.
 
 **Technologies:**
+
 - **Frontend:** React.js or Flutter
 - **Backend:** Node.js (Express.js) or Firebase
 - **Database:** Firestore
