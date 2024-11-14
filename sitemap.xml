@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/electronic/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/mechanical/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/software/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/telemetry/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/telemetry/data-analysis/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+    <url>
+         <loc>https://protoinsaclub.github.io/mkdoc-static-website/telemetry/data-collection/</loc>
+         <lastmod>2024-11-14</lastmod>
+    </url>
+</urlset>
